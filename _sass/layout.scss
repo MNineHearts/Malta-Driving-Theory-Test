@@ -321,6 +321,16 @@ nav > ul li a:active {
 	line-height: 1.5;
 }
 
+.appDescriptionNinorContainer {
+	font-size: 1.8rem;
+	font-weight: normal;
+	width: 100%;
+	align-items: flex-start;
+	margin-top: 15px;
+	flex: 0 1 auto;
+	line-height: 1.2;
+}
+
 .appDescription {
 	color: $app-description-color;
 }
