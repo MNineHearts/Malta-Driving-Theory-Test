@@ -326,13 +326,17 @@ nav > ul li a:active {
 	font-weight: normal;
 	width: 100%;
 	align-items: flex-start;
-	margin-top: 15px;
+	margin-top: 45px;
 	flex: 0 1 auto;
 	line-height: 1.2;
 }
 
 .appDescription {
 	color: $app-description-color;
+}
+
+.appDescriptionNinor {
+	color: $app_description_ninor_color
 }
 
 @media only screen and (max-width: 992px) {
