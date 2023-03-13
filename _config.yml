@@ -14,7 +14,8 @@ app_icon                                  : # assets/appicon.png                
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_keywords                              : malta driving theory,driving theory test,driving theory,malta theory test,car theory,car theory test,malta car theory,malta car theory test
-app_description                           : The Malta Driving Theory Test allows you to exercise all revision questions and answers. Covers all question banks in English and Maltese.<br>More detailed information can be found on the app store.
+app_description                           : The Malta Driving Theory Test allows you to exercise all revision questions and answers. Covers all question banks in English and Maltese.
+app_description_ninor                     : More detailed information can be found on the app store.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
